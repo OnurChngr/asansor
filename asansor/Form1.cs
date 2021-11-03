@@ -67,6 +67,7 @@ namespace asansor
                 a1 = kat;
             }
             //lblGosterAsansor2.Text = kat.ToString();
+            //asansor eklendi
 
 
 
